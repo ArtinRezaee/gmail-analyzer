@@ -1,0 +1,15 @@
+.vscode
+.idea
+.npmrc
+.nvimrc
+Session.vim
+.log
+
+ssl/*
+./middleware/dist/*
+**/node_modules/**
+**/build/**
+**/dist/**
+
+# dotenv environment variables file
+.env
