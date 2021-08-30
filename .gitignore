@@ -10,6 +10,8 @@ ssl/*
 **/node_modules/**
 **/build/**
 **/dist/**
+**/mails/**
+token.json
 
 # dotenv environment variables file
 .env
