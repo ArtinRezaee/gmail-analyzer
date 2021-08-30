@@ -10,7 +10,7 @@ This is an application that allows you to get snippets of your most frequently s
  - Host the server on Google Compute Engine
  - Host the frontend on Firebase hosting
  - Setup CI/CD for both Frontend and Backend using Github actions
- - Better Natural Language Processing Algorithm to detect duplicates and not have to read/write from files in order to snippatize the emails
+ - Better Natural Language Processing Algorithm to detect duplicates and not have to read/write from files in order to snippatize the emails. The app currently relies on the jscpd library
  - Better token management so the application doesn't rely on a token.json file
  - Implement pagination so the user can get more emails (This is already supported by the server)
 
