@@ -2,6 +2,8 @@
 
 This is an application that allows you to get snippets of your most frequently sent emails
 
+![image](https://user-images.githubusercontent.com/22065489/131299267-cb898621-4f05-4d96-9bb7-0ff9315e95d4.png)
+
 ## What would I do if I had more time?
 
  - Write unit and system tests for both frontend and server
