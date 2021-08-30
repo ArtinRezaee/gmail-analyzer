@@ -1,4 +1,3 @@
 ## Getting Started
 
-Run `npm install`
-Start the application by running `npm run watch`
+Run `npm install` then start the application by running `npm run watch`
