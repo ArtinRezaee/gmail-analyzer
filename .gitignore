@@ -12,6 +12,3 @@ ssl/*
 **/dist/**
 **/mails/**
 token.json
-
-# dotenv environment variables file
-.env
